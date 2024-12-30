@@ -6,7 +6,7 @@ This project is a dedicated NFT ticketing platform for **Andromeda**. Our goal i
 ## Project Details
 
 NFT ticketing is chosen to address problems in traditional ticketing systems, such as counterfeit tickets, transfer difficulties, and limited usability of tickets. NFT ticketing offers the following benefits:
-DEMO:[Next.js](https://embeddables.testnet.andromedaprotocol.io/galileo-4/crditicketevent)
+DEMO:[Ticketevent](https://embeddables.testnet.andromedaprotocol.io/galileo-4/crditicketevent)
 
 - **Counterfeit Prevention**: NFT tickets cannot be forged due to blockchain technology.
 - **Easy Transfer**: Users can quickly and securely transfer their tickets to others.
