@@ -1,12 +1,7 @@
 import { ICollectionType, IConfig } from "./lib/app/types";
 
 const CONFIG: IConfig = {
-    coinDenom: "ustars",
-    name: "Embeddable House",
-    chainId: "elgafar-1",
-    createdDate: "2024-03-31T19:01:01.148Z",
-    modifiedDate: "2024-03-31T19:01:01.148Z",
-    id: "andromeda",
+    "coinDenom":"uandr","name":"Cardano Tickets","chainId":"galileo-4","createdDate":"2024-12-25T20:52:13.321Z","modifiedDate":"2024-12-25T20:52:13.321Z","key":"CRDIss",
     collections: [
         {
             auction:
@@ -27,11 +22,7 @@ const CONFIG: IConfig = {
         },
         {
             crowdfund:
-                "stars1a0el2qceyryftj9cx0ds4as3sgfu4ezj7mumtdp34v5c9qpswzaqw0qq38",
-            cw721: "stars1uj5tl3g26022ev9ym6x39xtv09hz3xvc7e3c5wthdpufxtwk7rsscs6jz4",
-            name: "Crowdfund Example",
-            type: ICollectionType.CROWDFUND,
-            id: "crowdfund",
+                "andr155nem6feqmejzrmv7ysdf8k9kyc3xcx66kjutpkk44yzhj43j59sxwru8w","cw721":"andr1mfu9twrg7cjxe4e4se9yz5vzudz6ez4tqpzhh4cz8hcy87sh6u9sduq3ux","name":"Crdi ticket","type":"embeddables-crowdfund","id":"embeddables-crowdfund-1"
         },
         {
             exchange:
